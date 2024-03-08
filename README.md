@@ -1,1 +1,1 @@
-# Day-25-Travel-itinery-planner
+# Day25-travel-itinery-management
